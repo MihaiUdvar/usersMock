@@ -30,7 +30,7 @@
       "fullName": "user one",
       "profileNameType":"Profile [profile type 1]",
       "locale": "en",
-      "emailAddress": "bdaniliuc@montran.com",
+      "emailAddress": "mock@mock.com",
       "name": "iuser1",
       "groupNameType": "Group 1 [group type 1]"
     },
@@ -41,7 +41,7 @@
       "fullName": "B D 007",
       "profileNameType":"Profile [profile type 2]",
       "locale": "en",
-      "emailAddress": "bdaniliuc@montran.com",
+      "emailAddress": "mock@mock.com",
       "name": "iuser2",
       "groupNameType": "Group 2 [group type 2]"
     },
@@ -52,7 +52,7 @@
       "fullName": "user three",
       "profileNameType":"Profile [profile type 3]",
       "locale": "en",
-      "emailAddress": "bdaniliuc@montran.com",
+      "emailAddress": "mock@mock.com",
       "name": "iuser3",
       "groupNameType": "Group 1 [group type 3]"
     },
@@ -63,7 +63,7 @@
       "fullName": "user four",
       "profileNameType":"Profile [profile type 4]",
       "locale": "en",
-      "emailAddress": "bdaniliuc@montran.com",
+      "emailAddress": "mock@mock.com",
       "name": "iuser4",
       "groupNameType": "Group 1 [group type 4]"
     },
@@ -74,7 +74,7 @@
       "fullName": "user five",
       "profileNameType":"Profile [profile type 5]",
       "locale": "en",
-      "emailAddress": "bdaniliuc@montran.com",
+      "emailAddress": "mock@mock.com",
       "name": "iuser5",
       "groupNameType": "Group 1 [group type 5]"
     },
@@ -85,7 +85,7 @@
       "fullName": "user six",
       "profileNameType":"Profile [profile type 6]",
       "locale": "en",
-      "emailAddress": "bdaniliuc@montran.com",
+      "emailAddress": "mock@mock.com",
       "name": "iuser6",
       "groupNameType": "Group 1 [group type 6]"
     }
