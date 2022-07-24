@@ -1,0 +1,93 @@
+{
+  "header":[
+    {
+      "label": "username",
+      "field": "username"
+    },
+    {
+      "label": "groupNameType",
+      "field": "groupNameType"
+    },
+    {
+      "label": "fullName",
+      "field": "fullName"
+    },
+    {
+      "label": "profileNameType",
+      "field": "profileNameType"
+    },
+    {
+      "label": "status",
+      "field": "status"
+    }
+  ],
+
+  "users":[
+    {
+      "status": "Disabled",
+      "nextStatus": null,
+      "username": "iuser1",
+      "fullName": "user one",
+      "profileNameType":"Profile [profile type 1]",
+      "locale": "en",
+      "emailAddress": "bdaniliuc@montran.com",
+      "name": "iuser1",
+      "groupNameType": "Group 1 [group type 1]"
+    },
+    {
+      "status": "Active",
+      "nextStatus": null,
+      "username": "iuser2",
+      "fullName": "B D 007",
+      "profileNameType":"Profile [profile type 2]",
+      "locale": "en",
+      "emailAddress": "bdaniliuc@montran.com",
+      "name": "iuser2",
+      "groupNameType": "Group 2 [group type 2]"
+    },
+    {
+      "status": "Active",
+      "nextStatus": null,
+      "username": "iuser3",
+      "fullName": "user three",
+      "profileNameType":"Profile [profile type 3]",
+      "locale": "en",
+      "emailAddress": "bdaniliuc@montran.com",
+      "name": "iuser3",
+      "groupNameType": "Group 1 [group type 3]"
+    },
+    {
+      "status": "Active",
+      "nextStatus": null,
+      "username": "iuser4",
+      "fullName": "user four",
+      "profileNameType":"Profile [profile type 4]",
+      "locale": "en",
+      "emailAddress": "bdaniliuc@montran.com",
+      "name": "iuser4",
+      "groupNameType": "Group 1 [group type 4]"
+    },
+    {
+      "status": "Active",
+      "nextStatus": null,
+      "username": "iuser5",
+      "fullName": "user five",
+      "profileNameType":"Profile [profile type 5]",
+      "locale": "en",
+      "emailAddress": "bdaniliuc@montran.com",
+      "name": "iuser5",
+      "groupNameType": "Group 1 [group type 5]"
+    },
+    {
+      "status": "Active",
+      "nextStatus": null,
+      "username": "iuser6",
+      "fullName": "user six",
+      "profileNameType":"Profile [profile type 6]",
+      "locale": "en",
+      "emailAddress": "bdaniliuc@montran.com",
+      "name": "iuser6",
+      "groupNameType": "Group 1 [group type 6]"
+    }
+  ]
+}
