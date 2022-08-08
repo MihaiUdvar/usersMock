@@ -30,7 +30,7 @@
       "username": "iuser1",
       "fullName": "user one",
       "profileNameType":"Profile [profile type 1]",
-      "locale": "en",
+      "locale": ["en"],
       "emailAddress": "mock@mock.com",
       "name": "iuser1",
       "groupNameType": "Group 1 [group type 1]"
@@ -42,7 +42,7 @@
       "username": "iuser2",
       "fullName": "B D 007",
       "profileNameType":"Profile [profile type 2]",
-      "locale": "en",
+      "locale": ["en", "es"],
       "emailAddress": "mock@mock.com",
       "name": "iuser2",
       "groupNameType": "Group 2 [group type 2]"
