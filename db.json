@@ -30,7 +30,7 @@
       "username": "iuser1",
       "fullName": "user one",
       "profileNameType":"Profile [profile type 1]",
-      "locale": ["en", "es"],
+      "locale": ["en", "es"], 
       "emailAddress": "mock@mock.com",
       "name": "iuser1",
       "groupNameType": "Group 1 [group type 1]"
